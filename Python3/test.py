@@ -1,2 +1,2 @@
 print ("字符")
-test1
+test2
